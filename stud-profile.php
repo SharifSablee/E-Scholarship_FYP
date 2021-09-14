@@ -416,8 +416,8 @@ if ($run_profile) {
                                 <div class="row">
                                     <div class="form-group d-inline-flex">
                                         <!-- year -->
-                                        <label for="result" class="col-lg-5"><h4>Result:</h4></label>
-                                        <select class='form-select form-control col-lg-7' id='result' name='result'>
+                                        <label for="year" class="col-lg-5"><h4>Year:</h4></label>
+                                        <select class='form-select form-control col-lg-7' id='year' name='year'>
                                             <option value='' disabled selected hidden>Please Choose</option>
                                             <option value="">Passed</option>
                                             <option value="">Failed</option>
